@@ -1,0 +1,18 @@
+.trusted__container {
+  padding: 20px 0;
+  background: #ddd;
+  text-align: center;
+}
+.company__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.brandImg {
+  margin-right: 10px;
+  margin-top: 20px;
+}
+.brandImg img {
+  height: 100px;
+  width: 100px;
+}

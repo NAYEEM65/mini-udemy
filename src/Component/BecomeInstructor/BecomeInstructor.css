@@ -1,0 +1,42 @@
+.instructor__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.instructor__img {
+  text-align: center;
+}
+
+.instructor__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 40rem;
+  text-align: left;
+}
+
+.instructor__details h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+.instructor__details p {
+  font-size: 19px;
+}
+.instructor__details {
+  width: 400px;
+}
+.instructor-btn {
+  padding: 12px;
+  font-size: 16px;
+  margin-top: 10px;
+  background: #1c1d1f;
+  color: white;
+  border: none;
+  font-weight: 700;
+}
+.instructor-btn:hover {
+  background: black;
+}

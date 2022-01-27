@@ -1,0 +1,16 @@
+.container {
+  width: 1200px;
+  height: auto;
+  margin: 0 auto;
+}
+.slick-arrow {
+  background: #6c6b6b !important;
+  height: 40px !important;
+  width: 40px !important;
+  text-align: center !important;
+  line-height: 60px !important;
+  border-radius: 50px !important;
+}
+.slick-next {
+  right: 18px !important;
+}

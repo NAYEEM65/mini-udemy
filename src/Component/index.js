@@ -1,0 +1,13 @@
+export { default as BecomeInstructor } from './BecomeInstructor/BecomeInstructor';
+export { default as Bussiness } from './Bussiness/Bussiness';
+export { default as Courses } from './Courses/Courses';
+export { default as CourseTab } from './CourseTab/CourseTab';
+export { default as Education } from './Education/Education';
+export { default as FeatureTopic } from './FeatureTopic/FeatureTopic';
+export { default as Footer } from './Footer/Footer';
+export { default as Header } from './Header/Header';
+export { default as Home } from './Home/Home';
+export { default as Slider } from './Slider/Slider';
+export { default as TopCatagory } from './TopCatagory/TopCatagory';
+export { default as TrustedCompany } from './TrustedCompany/TrustedCompany';
+export { default as Cart } from './Cart/Cart';

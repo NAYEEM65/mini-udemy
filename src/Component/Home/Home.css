@@ -1,0 +1,45 @@
+.homeSlider__container {
+  background-image: url(../../Assets/images/homeone.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 400px;
+}
+.homeSlider__containertwo {
+  background-image: url(../../Assets/images/hometwo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 400px;
+}
+.homeSlider__content {
+  position: absolute;
+}
+
+.homeSlider__content {
+  position: absolute;
+  left: 7.2rem;
+  top: 6.4rem;
+  max-width: 34rem;
+  background: white;
+}
+
+.sliderContent {
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+  padding: 2.4rem;
+}
+.sliderContent p {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.sliderContent h3 {
+  font-size: 32px;
+}
+.slick-next {
+  right: 18px !important;
+}
+.slick-prev {
+  left: 18px !important;
+  z-index: 22;
+}

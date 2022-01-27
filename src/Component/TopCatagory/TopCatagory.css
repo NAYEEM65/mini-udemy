@@ -1,0 +1,34 @@
+.catagoryCard img {
+  height: auto;
+  max-width: 280px;
+  transition-duration: 0.2s;
+  margin: 20px 0;
+}
+.catagoryCard img:hover {
+  transform: scale(1.1);
+}
+.topCatagory__container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.topCatagory {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.topCatagory h4 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 29px;
+  color: #1c1d1f;
+}
+
+.catagoryTitle {
+  font-size: 16px;
+  font-weight: 600;
+}
